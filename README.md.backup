@@ -1,6 +1,0 @@
-# PCA Jupyter Notebook
-
-You can run this notebook interactively on either Binder or Google Colab:
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/flloaers/iris-dataset/HEAD?labpath=PCA_with_iris.ipynb) 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/flloaers/iris-dataset/blob/HEAD/PCA_with_iris.ipynb)
